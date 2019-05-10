@@ -2,7 +2,7 @@ package com.tinzel.test;
 
 public class Person {
 	/////////
-	private String name;//rtrrrttttt
+	private String name;//rtrrr
 	/////////
         helloworld
 }
